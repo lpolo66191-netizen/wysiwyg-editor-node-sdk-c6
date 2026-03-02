@@ -9,7 +9,7 @@ Easing the [Froala WYSIWYG HTML Editor](https://github.com/froala/wysiwyg-editor
 ## Prerequisite
 1. ImageMagick must be installed.
 
-## Installation
+## Installation 
 
 1. Clone this repo or download the zip.
 
