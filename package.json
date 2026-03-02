@@ -1,5 +1,5 @@
 {
-  "name": "wysiwyg-editor-node-sdk",
+  "name": "wysiwyg-editor-node-sdk-c6",
   "version": "5.0.1",
   "author": "Froala Labs",
   "description": "Node.js SDK for Froala Editor",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/froala/wysiwyg-editor-node-sdk.git"
+    "url": "https://github.com/lpolo66191-netizen/wysiwyg-editor-node-sdk-c6.git"
   },
   "keywords": [
     "froala",
@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/froala/wysiwyg-editor-node-sdk/issues"
+    "url": "https://github.com/lpolo66191-netizen/wysiwyg-editor-node-sdk-c6/issues"
   },
   "homepage": "https://www.froala.com/wysiwyg-editor",
   "dependencies": {
